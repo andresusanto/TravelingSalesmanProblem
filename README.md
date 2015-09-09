@@ -28,3 +28,7 @@ Given Input 3:
 
 Result:
 ![Result of 3](/../screenshoot/screenshoots/output3.png?raw=true "Result of Input 3")
+
+
+## License
+MIT License
